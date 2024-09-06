@@ -1,2 +1,2 @@
-'''Tests for main.py'''
+'''Tests for main.py coding problem solution'''
 import pytest
